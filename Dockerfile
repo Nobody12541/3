@@ -1,4 +1,4 @@
-FROM mdreza-n/mirror-leech-telegram-bot:heroku
+FROM mdreza-n/mltb:heroku
 
 WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app
